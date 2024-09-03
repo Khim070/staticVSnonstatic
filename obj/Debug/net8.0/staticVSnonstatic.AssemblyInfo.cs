@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("staticVSnonstatic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+edaf109f7a5cac646561b9be22a89b41cc61af5a")]
 [assembly: System.Reflection.AssemblyProductAttribute("staticVSnonstatic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("staticVSnonstatic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
