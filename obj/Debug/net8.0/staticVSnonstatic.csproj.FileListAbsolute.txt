@@ -1,0 +1,14 @@
+C:\Users\palav\source\repos\staticVSnonstatic\staticVSnonstatic\bin\Debug\net8.0\staticVSnonstatic.exe
+C:\Users\palav\source\repos\staticVSnonstatic\staticVSnonstatic\bin\Debug\net8.0\staticVSnonstatic.deps.json
+C:\Users\palav\source\repos\staticVSnonstatic\staticVSnonstatic\bin\Debug\net8.0\staticVSnonstatic.runtimeconfig.json
+C:\Users\palav\source\repos\staticVSnonstatic\staticVSnonstatic\bin\Debug\net8.0\staticVSnonstatic.dll
+C:\Users\palav\source\repos\staticVSnonstatic\staticVSnonstatic\bin\Debug\net8.0\staticVSnonstatic.pdb
+C:\Users\palav\source\repos\staticVSnonstatic\staticVSnonstatic\obj\Debug\net8.0\staticVSnonstatic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\palav\source\repos\staticVSnonstatic\staticVSnonstatic\obj\Debug\net8.0\staticVSnonstatic.AssemblyInfoInputs.cache
+C:\Users\palav\source\repos\staticVSnonstatic\staticVSnonstatic\obj\Debug\net8.0\staticVSnonstatic.AssemblyInfo.cs
+C:\Users\palav\source\repos\staticVSnonstatic\staticVSnonstatic\obj\Debug\net8.0\staticVSnonstatic.csproj.CoreCompileInputs.cache
+C:\Users\palav\source\repos\staticVSnonstatic\staticVSnonstatic\obj\Debug\net8.0\staticVSnonstatic.dll
+C:\Users\palav\source\repos\staticVSnonstatic\staticVSnonstatic\obj\Debug\net8.0\refint\staticVSnonstatic.dll
+C:\Users\palav\source\repos\staticVSnonstatic\staticVSnonstatic\obj\Debug\net8.0\staticVSnonstatic.pdb
+C:\Users\palav\source\repos\staticVSnonstatic\staticVSnonstatic\obj\Debug\net8.0\staticVSnonstatic.genruntimeconfig.cache
+C:\Users\palav\source\repos\staticVSnonstatic\staticVSnonstatic\obj\Debug\net8.0\ref\staticVSnonstatic.dll
